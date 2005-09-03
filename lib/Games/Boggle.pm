@@ -50,18 +50,32 @@ are never playable.
 
 =head1 AUTHOR
 
-Tony Bowden, E<lt>kasei@tmtm.comE<gt>.
+Tony Bowden
 
-=head1 COPYRIGHT
+=head1 BUGS and QUERIES
 
-Copyright (C) 2002 Tony Bowden. All rights reserved.
+Please direct all correspondence regarding this module to:
+  bug-Games-Boggle@rt.cpan.org
 
-This module is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+=head1 COPYRIGHT AND LICENSE
+
+  Copyright (C) 2002-2005 Tony Bowden.
+
+  This program is free software; you can redistribute it and/or modify it under
+  the terms of the GNU General Public License; either version 2 of the License,
+  or (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful, but WITHOUT
+  ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+  FOR A PARTICULAR PURPOSE.
+
+=head1 SEE ALSO
+
+Advanced Perl Programming, 2nd Edition, by Simon Cozens
 
 =cut
 
-$VERSION = '1.0';
+$VERSION = '1.01';
 
 use strict;
 use warnings;
